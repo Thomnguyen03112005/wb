@@ -5,7 +5,7 @@
         <title>Trang chủ</title>
     <body>
         <div class="background"></div>
-        <button class="home"></button>
+        <button class="home" type="button"></button>
     </body>
     <script>
 
